@@ -1,7 +1,0 @@
-USSD_GATEWAY_REQUEST|2024-10-07T04:24:39.791Z|93790517816|{"phoneNumber":"93790517816","sessionId":"17282750830115688","IsNewRequest":"1"}
-USSD_GATEWAY_REQUEST|2024-10-07T04:24:50.748Z|93790517816|{"phoneNumber":"93790517816","text":"1","sessionId":"17282750830115688","IsNewRequest":"0"}
-CVM_Offer_RESPONSE|2024-10-07T04:24:51.158Z|93790517816|[{"id":"9582","message":"بسته ماهانه 100GB انترنت در بدل 3150 افغانی","shortMessage":"ماهانه 100GB به 3150 افغانی","price":"3150.0","category":"DATA","order":"1"},{"id":"6246","message":"بسته 9GB ماهانه در بدل 500 اف","shortMessage":"ماهانه 9GB در بدل 500 اف","price":"500.0","category":"DATA","order":"4"}]
-USSD_GATEWAY_REQUEST|2024-10-07T04:24:56.580Z|93790517816|{"phoneNumber":"93790517816","text":"0","sessionId":"17282750830115688","IsNewRequest":"0"}
-USSD_GATEWAY_REQUEST|2024-10-07T04:25:00.676Z|93790517816|{"phoneNumber":"93790517816","text":"0","sessionId":"17282750830115688","IsNewRequest":"0"}
-USSD_GATEWAY_REQUEST|2024-10-07T04:25:10.713Z|93790517816|{"phoneNumber":"93790517816","text":"3","sessionId":"17282750830115688","IsNewRequest":"0"}
-CVM_Offer_RESPONSE|2024-10-07T04:25:11.954Z|93790517816|undefined
