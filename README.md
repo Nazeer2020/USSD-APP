@@ -19,5 +19,5 @@ These instructions will help you set up and run the application locally.
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-directory>
+git clone https://github.com/Nazeer2020/USSD-APP
+cd USSD-APP
